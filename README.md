@@ -1,5 +1,6 @@
 # thesparkcharity-foundation
-Payment Gateway Integration TO Create a simple website where payment gateway is integrated and Host the website .
+<b>Payment Gateway Integration</b>
+<br>TO Create a simple website where payment gateway is integrated and Host the website .
 <br><b>Tools used:<b>
   <br>HTML,CSS,BOOTSTRAP,JAVASCRIPT
   <br>THIRD PARTY INTEGRATION:RAZOR PAY
