@@ -1,5 +1,5 @@
 # thesparkcharity-foundation
-<u><b>Sparks Foundation Internship Project(task 3) :</b></u>
+<b>Sparks Foundation Internship Project(task 3) :</b><br>
 <b>Payment Gateway Integration</b><br>
 <br>TO Create a charity website where payment gateway is integrated and Host the website .
 <br><b>Tools used:<b>
